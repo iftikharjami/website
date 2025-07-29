@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2;
+  padding: 1;
+  background: #0ff0;
+  color: #333;
+}
+header {
+  background: rgba(22, 23, 23, 0);
+  color: #070000;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+button {
+  text-align: center;
+}
